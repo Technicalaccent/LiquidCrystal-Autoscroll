@@ -1,4 +1,4 @@
-# LiquidCrystal-Autoscroll
+LiquidCrystal Library - Autoscroll
 
 Demonstrates the use a 16x2 LCD display.  The LiquidCrystal
 library works with all LCD displays that are compatible with the
